@@ -2,40 +2,40 @@
   "data": [
     {
       "id": 1,
-      "title": "Борьба в прямом эфире",
+      "title": "G'day from Sydney",
       "date": "August 2, 2019",
       "views": 2687,
       "rating": 4.4,
       "image": "/images/img1.jpg",
       "author": {
         "name": "Grayson Wells",
-        "avatar": "/avatars/avatar11.jpg"
+        "avatar": "/avatars/avatar1.jpg"
       },
-      "description": "Ю Хобин – ничем не выделяющийся школьник, над которым постоянно издеваются его одноклассники-отморозки, чувствующие свое превосходство над ним. Парню ничего не остается, кроме как и дальше игнорировать их, потому что его жизнь и без того полна трудностей. Однако один непредвиденный инцидент полностью переворачивает его жизнь. Он становится знаменитым благодаря случайно загруженному и ставшему хайповым видео! Деньги и популярность – что может быть лучше?! Но, так как все вышло случайно, повторить успех первого ролика будет уже не так просто. Искушенный запахом денег, которые можно на этом поднять, и его внезапным всплеском популярности, он планирует делать более увлекательный контент, который будет интересен людям и поможет ему собрать больше подписчиков... Но, чтобы достичь этого, Хобину предстоит научиться сражаться, и именно с этого момента начинается история его канала «HOW TO FIGHT»!"
+      "description": "G'day mate! Welcome to Sydney, where you come for the beaches, but stay for the restaurants, the culture and the good vibes (but also, the beaches). We promise we're friendly here, but between the one-way streets, our four different forms of public transport and the fact that our urban design is more ‘bowl of spaghetti’ than ‘grid’, we know it can all be a little bit confusing. Here’s how to survive and thrive in the city, whether you’re here for a few days, or the rest of your life.<br><br>Looking to take a break from city life? Head to these glorious campsites near Sydney, or stretch into the weekend on these short getaways."
     },
     {
       "id": 2,
-      "title": "Поднятие уровня в одиночку",
+      "title": "Discover the New York",
       "date": "June 13, 2018",
       "views": 1893,
       "rating": 4.2,
       "image": "/images/img2.jpg",
       "author": {
         "name": "Charles Landebert",
-        "avatar": "/avatars/avatar21.jpg"
+        "avatar": "/avatars/avatar2.jpg"
       },
-      "description": "10 лет назад, после того, как «Врата», соединившие реальный мир с параллельным, открылись, некоторые из людей получили силу охотиться на монстров внутри «Врат». Они известны как охотники. Однако не все охотники сильные. Меня зовут Сон Джин Ву — охотник E-ранга. Я тот, кто рискует своей жизнью в самых низких уровнях подземелья. Не имея никаких сверхсильных навыков, я едва зарабатывал необходимые деньги, сражаясь в низкоуровневых подземельях... по крайней мере, пока я не нашел скрытое подземелье с самыми трудными проблемами в подземельях D-ранга! В конце концов, когда я умер, я внезапно получил странную силу, журнал заданий, который мог видеть только я, секрет для поднятия уровня, о котором знаю только я! Если я тренировался в соответствии с моими заданиями и охотился на монстров, мой уровень повышался. Переход от самого слабого охотника к самому сильному, охотнику S-ранга!"
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "id": 3,
-      "title": "ggggg",
+      "title": "London",
       "date": "February 12, 2017",
       "views": 1326,
       "rating": 4.3,
       "image": "/images/img3.jpg",
       "author": {
         "name": "Euterpe Renata",
-        "avatar": "/avatars/avatar31.jpg"
+        "avatar": "/avatars/avatar3.jpg"
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -48,7 +48,7 @@
       "image": "/images/img4.jpg",
       "author": {
         "name": "Hadyn Armida",
-        "avatar": "/avatars/avatar41.jpg"
+        "avatar": "/avatars/avatar4.jpg"
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -61,7 +61,124 @@
       "image": "/images/img5.jpg",
       "author": {
         "name": "Morgan Cortney",
-        "avatar": "/avatars/avatar51.jpg"
+        "avatar": "/avatars/avatar5.jpg"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 6,
+      "title": "Hong Kong",
+      "date": "November 29, 2014",
+      "views": 2549,
+      "rating": 3.8,
+      "image": "/images/img1.jpg",
+      "author": {
+        "name": "Nisha Felicia",
+        "avatar": "/avatars/avatar11.jpg"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 7,
+      "title": "Melbourne",
+      "date": "April 6, 2013",
+      "views": 1356,
+      "rating": 5,
+      "image": "/images/img2.jpg",
+      "author": {
+        "name": "Jaime Pramod",
+        "avatar": "/avatars/avatar12.jpg"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 8,
+      "title": "Chicago",
+      "date": "July 17, 2012",
+      "views": 1589,
+      "rating": 4.3,
+      "image": "/images/img3.jpg",
+      "author": {
+        "name": "Eva Sofie",
+        "avatar": "/avatars/avatar3.jpg"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 9,
+      "title": "Lisbon",
+      "date": "June 27, 2011",
+      "views": 2687,
+      "rating": 4.4,
+      "image": "/images/img4.jpg",
+      "author": {
+        "name": "Grayson Wells",
+        "avatar": "/avatars/avatar4.jpg"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 10,
+      "title": "Barcelona",
+      "date": "January 31, 2011",
+      "views": 2687,
+      "rating": 4.4,
+      "image": "/images/img5.jpg",
+      "author": {
+        "name": "Grayson Wells",
+        "avatar": "/avatars/avatar1.jpg"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 11,
+      "title": "Madrid",
+      "date": "April 22, 2011",
+      "views": 2687,
+      "rating": 4.4,
+      "image": "/images/img1.jpg",
+      "author": {
+        "name": "Grayson Wells",
+        "avatar": "/avatars/avatar11.jpg"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 12,
+      "title": "Miami",
+      "date": "December 5, 2011",
+      "views": 2687,
+      "rating": 4.4,
+      "image": "/images/img2.jpg",
+      "author": {
+        "name": "Grayson Wells",
+        "avatar": "/avatars/avatar1.jpg"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 13,
+      "title": "Montreal",
+      "date": "September 16, 2011",
+      "views": 2687,
+      "rating": 4.4,
+      "image": "/images/sydney_image.jpg",
+      "author": {
+        "name": "Grayson Wells",
+        "avatar": "/avatars/avatar13.jpg"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 14,
+      "title": "Boston",
+      "date": "June 3, 2010",
+      "views": 2687,
+      "rating": 4.4,
+      "image": "/images/img4.jpg",
+      "author": {
+        "name": "Grayson Wells",
+        "avatar": "/avatars/avatar1.jpg"
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
